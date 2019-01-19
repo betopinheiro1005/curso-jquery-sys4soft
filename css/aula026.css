@@ -1,0 +1,23 @@
+p#p1, p#p3 {
+   margin: 10px;
+   padding: 10px;
+   background-color: yellow;
+   border: 1px solid black;
+}
+p#p2 {
+   margin: 10px;
+   padding: 10px;
+   background-color: #ccc; 
+   border: 1px solid black;
+}
+h5 {
+    text-align: center;
+}
+div#painel{
+   width: 800px;
+   height: 300px;
+   margin: 10px;
+   padding: 0px;
+   background-color: yellow;
+   border: 1px solid black;
+}
