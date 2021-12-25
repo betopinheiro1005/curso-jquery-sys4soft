@@ -1,5 +1,5 @@
 # Curso de jQuery
-## Sys4soft ()
+## Sys4soft (João Ribeiro)
 
 ### [Vídeos do curso](https://www.youtube.com/watch?v=7u8VhSl1ORE&list=PLXik_5Br-zO90OxZBRvMR3yGVpsHqeXH7)
 
